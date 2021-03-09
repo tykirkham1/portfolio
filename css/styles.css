@@ -9,7 +9,6 @@ h1 {
   font-family: Sacramento;
 }
 
-
 .topcontainter {
   background-color: #E4F9F5;
   position: relative;
@@ -28,30 +27,39 @@ h1 {
   bottom: 300px;
 }
 
-.bottomcontainer {
-  background-color: blue;
-  width: 200px;
-  height: 200px;
-}
-.profile-picture{
+.profile-picture {
   height: 250px;
 }
-.skill-head{
+
+.skill-head {
   height: 240px;
 }
-.css{
-  width: 225px;
-  height:225px;
-}
-.html{
+
+.css {
   width: 20%;
-  height:81px;
+  height: 200px;
 }
-.js{
+
+.html {
   width: 20%;
-  height:81px;
+  height: 200px;
 }
-.node{
-width: 20%;
-height:81px;
+
+.js {
+  width: 20%;
+  height: 200px;
+}
+
+.node {
+  width: 20%;
+  height: 200px;
+}
+.bottom-container{
+  background-color: darksalmon;
+}
+.contact-me{
+  background-color: darksalmon;
+}
+.middle-container{
+  background-color: palevioletred;
 }
